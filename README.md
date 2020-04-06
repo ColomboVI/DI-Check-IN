@@ -1,2 +1,3 @@
 # DI-Check-IN
-Plantilla hoja checkin
+
+El código necesario para la plantilla DI hoja Checkin
